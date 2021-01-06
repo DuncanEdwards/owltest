@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace SystemsUnderTest
+namespace SystemsUnderTest.Letter_Counter
 {
     public class LetterCounter : ILetterCounter
     {

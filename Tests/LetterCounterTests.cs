@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using SystemsUnderTest;
+using SystemsUnderTest.Letter_Counter;
 
 namespace Tests
 {

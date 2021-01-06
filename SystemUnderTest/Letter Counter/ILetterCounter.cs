@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace SystemsUnderTest
+namespace SystemsUnderTest.Letter_Counter
 {
     public interface ILetterCounter
     {
