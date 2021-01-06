@@ -30,7 +30,7 @@ namespace Tests
             var objectAsString = jsonSerializer.Serialize(bookObject);
 
             // Assert.
-            Assert.That(objectAsString, Is.EqualTo("{\"Title\":\"The Big Book of CSharp\",\"Authors\": [\"Terry\",\"Duncan\",\"Anthony\",\"Kes\"]}"));
+            Assert.That(objectAsString, Is.EqualTo("{\"Title\":\"The Big Book of CSharp\",\"Authors\":[\"Terry\",\"Duncan\",\"Anthony\",\"Kes\"]}"));
         }
     }
 }
